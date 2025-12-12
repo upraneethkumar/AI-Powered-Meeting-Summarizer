@@ -21,6 +21,7 @@ http://127.0.0.1:7860
 
 
 
+
 ✅ How to Install Chocolatey on Windows
 1️⃣ Open PowerShell as Administrator
 
